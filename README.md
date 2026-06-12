@@ -1,6 +1,6 @@
 # IA1 Personal Website
 
-This repository contains Zuo Yijun's Individual Assignment 1 personal website
+This repository contains Zhao Mengyao's Individual Assignment 1 personal website
 for SMM30503 Web Design and Development.
 
 ## Assignment Requirements
